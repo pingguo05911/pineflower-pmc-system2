@@ -5,3 +5,4 @@ torch
 torchvision
 ultralytics
 Pillow
+cv2
