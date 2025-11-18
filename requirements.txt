@@ -5,4 +5,4 @@ torch
 torchvision
 ultralytics
 Pillow
-cv2
+pip>=25.0
