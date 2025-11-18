@@ -4,7 +4,6 @@ import tempfile
 import os
 from datetime import datetime
 from collections import defaultdict
-from ultralytics import YOLO
 
 # 页面配置
 st.set_page_config(
